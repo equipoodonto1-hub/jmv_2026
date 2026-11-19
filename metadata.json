@@ -1,0 +1,6 @@
+{
+  "name": "JMV - Juventud Mariana Vicenciana",
+  "description": "Aplicación web progresiva (PWA) para el grupo juvenil católico JMV: retos, cuotas de 1 dólar, chat en tiempo real, actividades, servicio y fraternidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
